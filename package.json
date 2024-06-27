@@ -6,12 +6,12 @@
 		"Google",
 		"LMGTFY"
 	],
-	"homepage": "https://github.com/ShiroApp/LMGTFY",
+	"homepage": "https://github.com/ShiroApp/lmgtfy",
 	"bugs": {
-		"url": "https://github.com/ShiroApp/LMGTFY/issues"
+		"url": "https://github.com/ShiroApp/lmgtfy/issues"
 	},
 	"license": "AGPL-3.0-or-later",
-	"repository": "github:ShiroApp/LMGTFY",
+	"repository": "github:ShiroApp/lmgtfy",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
