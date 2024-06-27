@@ -1,7 +1,5 @@
 # LMGTFY
 
-[![Node.js CI](https://github.com/ShiroApp/LMGTFY/actions/workflows/node.js.yaml/badge.svg)](https://github.com/ShiroApp/LMGTFY/actions/workflows/node.js.yaml)
-
 A fork of https://github.com/NatoBoram/lmgtfy that we host on our GitHub Pages namespace to have it reliably be in our infrastructure.
 
 This project is a _Let Me Google That For You_ clone that's open source and doesn't track you when you share it.
